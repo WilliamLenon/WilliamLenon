@@ -20,6 +20,8 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=#cc16a8)](https://www.instagram.com/wl.williamlenon/)
 
+[![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook&logoColor=#cc16a8)](https://www.facebook.com/wl.williamlenon/)
+
 ## 🏃🏽‍♂️ Acompanhe minha evolução na [DIO.ME](https://www.dio.me/users/wl_williamlenon).
 
 ## Habilidades:
