@@ -1,6 +1,6 @@
 # Hey, there! William Morais, here.
 
-## 📚 Cursando Análise e Desenvolvimento de Sistemas no [Centro Universitário Jorge Amado](https://www.unijorge.edu.br/).
+## 🎓 Analista e Desenvolvedor de Sistemas pelo [Centro Universitário Jorge Amado](https://www.unijorge.edu.br/).
 
 ## 🎩 Hacker Ético pelo [Curso Técnicas de Invasão](https://sl.tecnicasdeinvasao.com/).
 
